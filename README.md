@@ -1,35 +1,13 @@
-# vue-icon-shop
+# IconiCoaster
 
-This template should help get you started developing with Vue 3 in Vite.
+Here is a little blurb about a website I did to learn a little more about the abilities of Vue.js
 
-## Recommended IDE Setup
+The repo is fairly straight forward. Once you have cloned the repo you can do
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+```npm install```
 
-## Customize configuration
+then
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+```npm run dev```
 
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+Which should result in the dev server being spun up for your viewing.
