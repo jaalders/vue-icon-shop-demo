@@ -2,12 +2,28 @@
 
 Here is a little blurb about a website I did to learn a little more about the abilities of Vue.js
 
-The repo is fairly straight forward. Once you have cloned the repo you can do
+## Run Locally
 
-```npm install```
+Clone the project
 
-then
+```bash
+  git clone https://github.com/jaalders/vue-icon-shop-demo.git
+```
 
-```npm run dev```
+Go to the project directory
 
-Which should result in the dev server being spun up for your viewing.
+```bash
+  cd vue-icon-shop-demo
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
